@@ -1,2 +1,1 @@
-# medium-clone
-Medium-Clone
+# Medium Sayfasının Bootstrap Klonu
